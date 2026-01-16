@@ -6,3 +6,4 @@ console.log(binaryRepresentation)
 const arr = new Uint8Array(["1918"])
 
 console.log(arr)
+// loggin array
